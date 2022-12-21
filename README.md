@@ -18,6 +18,8 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
   Do not use quotes on the <details> tag attributes.
 -->
 
+[![Step 3, Upload test reports](https://github.com/markohak/ci/actions/workflows/3-upload-test-reports.yml/badge.svg)](https://github.com/markohak/ci/actions/workflows/3-upload-test-reports.yml)
+
 <!--step0
 
 [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) can help you stick to your team’s quality standards by running tests and reporting the results on GitHub. CI tools run builds and tests, triggered by commits. The results post back to GitHub in the pull request. The goal is fewer issues in `main` and faster feedback as you work.
